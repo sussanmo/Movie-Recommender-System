@@ -1,7 +1,7 @@
 # Movie-Recommender-System
 Movie Recommender Simulator using cosine similarity metrics and K-means clustering
 
-MovieLens 100K Data set:
+### MovieLens 100K Data set:
 
 MovieLens data sets were collected by the GroupLens Research Project at the University of Minnesota.
 
@@ -12,7 +12,7 @@ Each user has rated at least 20 movies. Simple demographic info for the users (a
 The data was collected through the MovieLens website (movielens.umn.edu) during the seven-month period from September 19th 1997 through April 22nd 1998.
 
 
-Movie Recommender 2.0:
+## **Movie Recommender 2.0:**
 a recommender system using the data from the moviesLens Dataset using similarity between users
 
 • Reads the dataset
@@ -24,7 +24,7 @@ a recommender system using the data from the moviesLens Dataset using similarity
 • The system should recommend the top 10 movies that the user has not watched
 
 
-Movie Recommender 1.5:
+## **Movie Recommender 1.5:**
 
 a recommender system using the data from the moviesLens Dataset using clustering
 
